@@ -74,8 +74,9 @@ This analysis demonstrates how businesses can:
 <img width="1300" height="727" alt="Screenshot 2026-04-15 115838" src="https://github.com/user-attachments/assets/857feed1-5030-4fa3-b390-2a3a560c079a" />
 <img width="1295" height="729" alt="Screenshot 2026-04-15 115810" src="https://github.com/user-attachments/assets/b606ef60-004f-4591-a4e5-6b08e4036409" />
 
-
-
+## 📂 Dataset
+Due to file size limitations, the cleaned dataset is available here:
+[Download Dataset](https://drive.google.com/file/d/19i8YBCOAgpBwufgkAi_4lf8j6kBOchmw/view?usp=drive_link)
 ## 🙋‍♀️ About Me
 I’m a Data Analyst passionate about transforming complex data into actionable insights that drive business decisions.
 
